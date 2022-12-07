@@ -1,0 +1,6 @@
+used git add MyFile.txt
+git add .
+git config --global user.name "amaluald_INFO"
+git add Command.txt
+git status
+we use git status command to view the current state of our project
